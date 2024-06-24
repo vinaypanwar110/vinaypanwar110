@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi👋 , I'm Vinay Panwar
+A passionate and dedicated competitive programmer and web developer.
+My journey in the tech world started with a deep interest in solving complex problems and creating elegant solutions.
+Over the years, I've honed my skills in both algorithmic problem-solving and full-stack web development.
 
+![Vinay Panwar GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaypanwar110&show_icons=true&theme=transparent)
 <!--
 **vinaypanwar110/vinaypanwar110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
